@@ -2,7 +2,7 @@
 
 A **systems** developer who likes working close to the hardware, from **a CPU built from logic chips** up to **Linux on no-MMU microcontrollers**, with a **competitive programming** background.
 
-CSIE undergrad at National Cheng Kung University, heading to NYCU for an M.S. in Computer Science in Fall 2027.
+CSIE undergrad at National Cheng Kung University.
 
 ### Competitive Programming
 - ⚡ 2026 Asia Taiwan Online Programming Contest (TOPC) - Gold Award, rk.12
